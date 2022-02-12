@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carib_pay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heramb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lubypay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickpay" vcs="Git" />
+  </component>
+</project>
